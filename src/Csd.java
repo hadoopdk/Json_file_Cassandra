@@ -1,6 +1,7 @@
+
+
 import java.io.FileReader;
 import java.io.IOException;
-
 
 
 import org.json.simple.JSONArray;
@@ -10,6 +11,13 @@ import org.json.simple.parser.ParseException;
 
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.Session;
+
+/**
+ * Developer: Dinesh K Rajput.
+ * Expained : hadoopdk.blogspot.com
+ * Dev. Date: Nov-2017
+ * Cassandra version 3.5
+ */
 
 public class Csd {
 
